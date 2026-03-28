@@ -1,5 +1,4 @@
-# Projekt_Kernel02_JAZKernelBase
-
+# Projekt_Kernel02_JAZRepositoryDummyTemplate
 Neues Repository anhand dieser Vorlage erstellen.
 Das neue Repository lokal clonen.
 Anschliessend in den Eclipse - Projketdateien lokal Änderungen vornehmen.
