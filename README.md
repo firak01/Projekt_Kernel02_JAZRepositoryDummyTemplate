@@ -1,7 +1,7 @@
 # Projekt_Kernel02_JAZRepositoryDummyTemplate
 Neues Repository anhand dieser Vorlage erstellen.
 Das neue Repository lokal clonen.
-Anschliessend in den Eclipse - Projketdateien lokal Änderungen vornehmen.
+Anschliessend in den Eclipse - Projeketdateien lokal Änderungen vornehmen.
 Dabei dann den gewünschten Java-Projektnamen vergeben, etc.
 
 WICHTIG: 
