@@ -12,6 +12,8 @@ Umbennung des Verzeichnisordners "...TEMPLATE..." kann in der "normalen" GitHub 
 Aber es gibt ein Plugin, welches man duch Drücken des Punkts "." öffnen kann. 
 Dann öffnet sich github.dev Seite. Hier momentan VisualStudio. In dem Menü kann man dann den Ordner umbenennen.
 Mit Rechtclick auf den Knoten und Auswahl "Einfügen..." öffnet sich ein Menü. Dort unten "Ordner umbenennen" auswählen. 
+<img width="1332" height="703" alt="grafik" src="https://github.com/user-attachments/assets/af1a128b-3996-488f-abfa-ae9819f6d96f" />
+
 
 <img width="1018" height="587" alt="grafik" src="https://github.com/user-attachments/assets/864bc87c-f7e8-4a93-9750-0e388cf1dd92" />
 
