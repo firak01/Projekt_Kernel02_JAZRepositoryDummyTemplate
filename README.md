@@ -17,8 +17,6 @@ Mit Rechtclick auf den Knoten und Auswahl "Einfügen..." öffnet sich ein Menü.
 
 <img width="1018" height="587" alt="grafik" src="https://github.com/user-attachments/assets/864bc87c-f7e8-4a93-9750-0e388cf1dd92" />
 
-<img width="706" height="761" alt="grafik" src="https://github.com/user-attachments/assets/f68c6f3a-ff59-4162-a461-77a547ad6ba0" />
-
 Diese Änderung muss noch committet werden. Also auf den Link (hier mit der blauen 16) clicken. 
 Und den Kommentar eingeben. Hier "Verzeichnis umbenannt".
 <img width="706" height="761" alt="grafik" src="https://github.com/user-attachments/assets/9fcea1cc-5f6d-45ff-8f0d-b3186f5bbb71" />
