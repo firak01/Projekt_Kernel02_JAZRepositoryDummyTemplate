@@ -1,14 +1,7 @@
 # Projekt_Kernel02_JAZRepositoryDummyTemplate
 Neues Repository anhand dieser Vorlage erstellen.
 Das neue Repository lokal clonen.
-Anschliessend in den Eclipse - Projektdateien lokal Änderungen vornehmen.
-Dabei dann den gewünschten Java-Projektnamen vergeben, etc.
-
-WICHTIG: 
-Es reicht nicht aus dieses Projekt selbst zu klonen und dann die Projektnamens - Umbenennungen durchzuführen.
-Man bekommt dann ja kein eigenständiges Repository und würde nur mit diesem Template Repository arbeiten.
-
-Umbennung des Verzeichnisordners "...TEMPLATE..." kann in der "normalen" GitHub - Seite nicht erfolgen. Git kann auch keine Verzeichnisse umbenennen.
+mbennung des Verzeichnisordners "...TEMPLATE..." kann in der "normalen" GitHub - Seite nicht erfolgen. Git kann auch keine Verzeichnisse umbenennen.
 Aber es gibt ein Plugin, welches man duch Drücken des Punkts "." öffnen kann. 
 Dann öffnet sich github.dev Seite. Hier momentan VisualStudio. In dem Menü kann man dann den Ordner umbenennen.
 Mit Rechtclick auf den Knoten und Auswahl "Einfügen..." öffnet sich ein Menü. Dort unten "Ordner umbenennen" auswählen. 
@@ -24,3 +17,12 @@ Und den Kommentar eingeben. Hier "Verzeichnis umbenannt".
 unten links gibt es einen Link "GitHub" mit dem man wieder zurückkommen kann. (im Menü auswählen: "Zu Repository wcchseln").
 <img width="1358" height="1127" alt="grafik" src="https://github.com/user-attachments/assets/d584c41f-b8d3-41b2-b86c-faab209fdf64" />
 
+NICHT VERGESSEN:
+Anschliessend in den Eclipse - Projektdateien lokal Änderungen vornehmen.
+Dabei dann den gewünschten Java-Projektnamen vergeben, etc.
+
+WICHTIG: 
+Es reicht nicht aus dieses Projekt selbst zu klonen und dann die Projektnamens - Umbenennungen durchzuführen.
+Man bekommt dann ja kein eigenständiges Repository und würde nur mit diesem Template Repository arbeiten.
+
+U
